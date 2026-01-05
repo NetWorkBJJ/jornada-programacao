@@ -1,0 +1,44 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Build e compilacao
+dist/
+build/
+*.min.js
+*.min.css
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporarios
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Testes
+coverage/
+
+# Claude Code
+.claude/
