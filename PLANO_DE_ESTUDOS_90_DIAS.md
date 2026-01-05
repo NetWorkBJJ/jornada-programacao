@@ -1,8 +1,8 @@
 # Plano de Estudos Intensivo - 90 Dias
 ## De Leigo a Programador No-Code Profissional
 
-**Aluno:** _________________
-**Data de Início:** ___ / ___ / 2025
+**Aluno:** Anderson Ferreira Santos
+**Data de Início:** 05 / 01 / 2025
 **Compromisso Diário:** 1-2 horas
 **Meta Final:** Criar projetos funcionais e profissionais
 
@@ -46,10 +46,10 @@
 | 30min | Configurar terminal + extensões | Prática guiada |
 
 **Checklist do dia:**
-- [ ] Cursor instalado e funcionando
-- [ ] Conta GitHub criada
-- [ ] Git instalado (verificar com `git --version`)
-- [ ] Primeira pasta de projeto criada
+- [x] Cursor instalado e funcionando
+- [x] Conta GitHub criada
+- [x] Git instalado (verificar com `git --version`)
+- [x] Primeira pasta de projeto criada
 
 **Tarefa prática:**
 ```bash
